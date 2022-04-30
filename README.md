@@ -4,6 +4,24 @@
 
 ## Welcome to FileManager ##
 
+<p>
+<a href = "https://github.com/YubaC/filemanager"><img src = "https://img.shields.io/github/forks/YubaC/filemanager.svg"></a>
+<a href = "https://github.com/YubaC/filemanager"><img src = "https://img.shields.io/github/stars/YubaC/filemanager.svg"></a>
+<a href = "https://github.com/YubaC/filemanager"><img src = "https://img.shields.io/github/watchers/YubaC/filemanager.svg"></a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
+
+<br>
+
+<img src = "http://ForTheBadge.com/images/badges/built-by-developers.svg">
+
+<img src = "http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
+
 **FileManager**是一款轻量的文件管理器。
 
 ### 安装FileManger ###
