@@ -1,4 +1,3 @@
-@import "https://haogeshuohuanihaohaoting.github.io/static/mdCreateMenu.js"
 # FileManager Helper #
 
 <img src = "img\ico.png">
