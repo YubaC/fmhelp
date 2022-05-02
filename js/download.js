@@ -1,8 +1,10 @@
-window.onload = function() {
-    refreshImage("download_times", "https://img.shields.io/github/downloads/YubaC/filemanager/total?style=for-the-badge")
-    refreshImage("forks", "https://img.shields.io/github/forks/YubaC/filemanager.svg?style=for-the-badge")
-    refreshImage("stars", "https://img.shields.io/github/stars/YubaC/filemanager.svg?style=for-the-badge")
-    refreshImage("watchers", "https://img.shields.io/github/watchers/YubaC/filemanager.svg?style=for-the-badge")
+// setTimeout(function() {
+function reloadimage() {
+    refreshImage("download_times", "https://img.shields.io/github/downloads/YubaC/filemanager/total?style=for-the-badge&color=yellow")
+    refreshImage("forks", "https://img.shields.io/github/forks/YubaC/filemanager.svg?style=for-the-badge&color=green")
+    refreshImage("stars", "https://img.shields.io/github/stars/YubaC/filemanager.svg?style=for-the-badge&color=green")
+    refreshImage("watchers", "https://img.shields.io/github/watchers/YubaC/filemanager.svg?style=for-the-badge&color=green")
+        // }, 1 * 1000)
 }
 
 function downloadFile(url) {
