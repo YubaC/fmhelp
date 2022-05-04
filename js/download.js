@@ -8,6 +8,7 @@ function reloadimage() {
         refreshImage("forks", "https://img.shields.io/github/forks/YubaC/filemanager.svg?style=for-the-badge&color=green")
         refreshImage("stars", "https://img.shields.io/github/stars/YubaC/filemanager.svg?style=for-the-badge&color=green")
         refreshImage("watchers", "https://img.shields.io/github/watchers/YubaC/filemanager.svg?style=for-the-badge&color=green")
+        refreshImage("release_version", "https://img.shields.io/github/v/release/YubaC/filemanager?style=for-the-badge&color=yellowgreen")
         reloaded = true
     }
 }
