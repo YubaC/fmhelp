@@ -50,7 +50,7 @@ function godownload() {
             obj = JSON.parse(json);
             downloadFile('https://ghproxy.com/' + obj["assets"][0]["browser_download_url"])
             setTimeout(function() {
-                    refreshImage("download_times", "https://img.shields.io/github/downloads/YubaC/filemanager/total?style=for-the-badge")
+                    refreshImage("download_times", "https://img.shields.io/github/downloads/YubaC/filemanager/total?style=for-the-badge&color=yellow")
                 }, 2 * 1000)
                 // document.getElementById('download').innerHTML = '<a href = "' + obj["assets"][0]["browser_download_url"] + '">下载最新版<\/a>'
         }
